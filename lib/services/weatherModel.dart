@@ -1,7 +1,7 @@
 import 'package:weather/services/location.dart';
 import 'package:weather/services/networking.dart';
 
-const String apiKey = '12df51e291aae483fedeb9e98eb69ab4';   //API key
+const String apiKey = 'Your API Key Here';   //API key ---Add your API Key here
 
 //Use your own API Key by signing in into openWeatherMap
 // This is free api Key only for limited use.
